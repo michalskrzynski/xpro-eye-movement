@@ -15,4 +15,4 @@ This project is considered completed.
 
 ## License
 
-The project is under MIT license.
+The project is under MIT license. See LICENSE file.
